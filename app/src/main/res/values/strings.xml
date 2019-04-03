@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flicks_STJEAN_Josue</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_overview_and_synopsis">Movie Overview and synopsis</string>
+</resources>
